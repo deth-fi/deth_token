@@ -13,8 +13,8 @@ Reflections allow an easy entrypoint into any DeFi ecosystem by allowing holders
 
 ## Links
 
-    -   [Twitter](https://twitter.com/degeneth8)
-    -   [Telegram](http://t.me/degen_eth)
-    -   [Website](https://degeneth.xyz/)
+[Twitter](https://twitter.com/degeneth8)
+[Telegram](http://t.me/degen_eth)
+[Website](https://degeneth.xyz/)
 
 If you have any questions or would like to collaborate, please reach out to the team via our Telegram our offical Twitter account. 
